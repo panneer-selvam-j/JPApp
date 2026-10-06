@@ -1,0 +1,6 @@
+@JPApp_HostAddress = http://localhost:5028
+
+GET {{JPApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
